@@ -180,4 +180,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-© 2026 Raj Anand. All rights reserved.
+© 2026 SathwikReddyB. All rights reserved.
