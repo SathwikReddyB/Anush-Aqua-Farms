@@ -91,7 +91,7 @@ Follow these steps to set up the project locally with full database connectivity
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/RajAnand132/aqua-farms
+git clone https://github.com/SathwikReddyB/Anush-Aqua-Farms.git
 cd aqua-farms-main
 ```
 
